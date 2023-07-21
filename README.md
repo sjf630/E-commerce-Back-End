@@ -18,9 +18,8 @@ This application is the back end for an e-commerce site. By using Express.js API
 
 ## Walkthrough Video
 
-(TODO: Insert link to your walkthrough video here)
 
-## Contact
+## Author
 
 - GitHub: [sjf630](https://github.com/sjf630)
 
