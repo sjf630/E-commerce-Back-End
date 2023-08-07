@@ -23,4 +23,4 @@ This application is the back end for an e-commerce site. By using Express.js API
 
 - GitHub: [sjf630](https://github.com/sjf630)
 
-Please reach out if you have any questions or comments.
+Please reach out if you have any questions or comments, thank you
